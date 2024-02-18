@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="610.27643mm"
+   height="297.86649mm"
+   viewBox="0 0 610.27643 297.86649"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
-   sodipodi:docname="iToph copy.svg"
+   sodipodi:docname="iToph.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.59206357"
-     inkscape:cx="324.2895"
-     inkscape:cy="621.55488"
+     inkscape:zoom="0.27883897"
+     inkscape:cx="1047.1994"
+     inkscape:cy="1136.8569"
      inkscape:window-width="1728"
      inkscape:window-height="979"
      inkscape:window-x="0"
@@ -36,21 +36,23 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"><rect
-       style="fill:#f9b71b;fill-opacity:1;stroke:#ffffff;stroke-width:0.566285"
+     style="display:inline"
+     transform="translate(0.39999931,0.39999931)"><rect
+       style="fill:#f9b71b;fill-opacity:1;stroke:#ffffff;stroke-width:0.963416"
        id="bgRect"
-       width="210.23372"
-       height="297.3002"
-       x="-0.11685681"
-       y="-0.11685681"
-       ry="0.49306861">&#10;       <animate
+       width="609.31299"
+       height="296.90308"
+       x="0.081708677"
+       y="0.081708677"
+       ry="0.49240997">&#10;       <animate
    attributeName="fill"
    values="#f9b71b;#1294df;#ed539b;#a3c93e;#f9b71b"
    dur="8s"
    repeatCount="indefinite" />&#10;     </rect></g><g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="iToph"><g
+     inkscape:label="iToph"
+     transform="translate(0.39999931,0.39999931)"><g
        id="g6"
        transform="matrix(0.70785762,0,0,0.70785762,-21.176609,89.312084)"
        style="display:inline"><path
@@ -122,7 +124,8 @@
      id="layer2"
      inkscape:label="colour ref"
      sodipodi:insensitive="true"
-     style="display:none"><g
+     style="display:none"
+     transform="translate(0.39999931,0.39999931)"><g
        id="g12"
        transform="translate(-3.3859413,-0.3999995)"
        style="display:inline"><rect
